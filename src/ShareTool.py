@@ -81,7 +81,7 @@ CATEGORIES = {
 
         "description": "Bohrmaschinen, Sägen und Werkzeug",
 
-        "image": https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&w=900&q=80
+        "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&w=900&q=80"
 
     },
 
@@ -91,7 +91,7 @@ CATEGORIES = {
 
         "description": "Staubsauger und Reinigungsgeräte",
 
-        "image": https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80
+        "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80"
 
     },
 
@@ -101,7 +101,7 @@ CATEGORIES = {
 
         "description": "Alles für dein nächstes Projekt",
 
-        "image": https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=900&q=80
+        "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=900&q=80"
 
     },
 
@@ -111,7 +111,7 @@ CATEGORIES = {
 
         "description": "Wagenheber, Ladegeräte und Zubehör",
 
-        "image": https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=900&q=80
+        "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=900&q=80"
 
     },
 
@@ -121,7 +121,7 @@ CATEGORIES = {
 
         "description": "Leitern und Transporthilfen",
 
-        "image": https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?auto=format&fit=crop&w=900&q=80
+        "image": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?auto=format&fit=crop&w=900&q=80"
 
     },
 
@@ -131,7 +131,7 @@ CATEGORIES = {
 
         "description": "Küchengeräte und praktische Helfer",
 
-        "image": https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=900&q=80
+        "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=900&q=80"
 
     },
 
@@ -141,7 +141,7 @@ CATEGORIES = {
 
         "description": "Camping, Sport und Outdoor",
 
-        "image": https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?auto=format&fit=crop&w=900&q=80
+        "image": "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?auto=format&fit=crop&w=900&q=80"
 
     },
 
@@ -151,7 +151,7 @@ CATEGORIES = {
 
         "description": "Technik und Elektronik",
 
-        "image": https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"
 
     },
 
@@ -161,7 +161,7 @@ CATEGORIES = {
 
         "description": "Musik, Beleuchtung und Partyzubehör",
 
-        "image": https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=900&q=80
+        "image": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=900&q=80"
 
     },
 
@@ -171,7 +171,7 @@ CATEGORIES = {
 
         "description": "Pflanzen, Gartenpflege und Außenbereich",
 
-        "image": https://images.unsplash.com/photo-1599685315640-200a9f6e5e1e?auto=format&fit=crop&w=900&q=80
+        "image": "https://images.unsplash.com/photo-1599685315640-200a9f6e5e1e?auto=format&fit=crop&w=900&q=80"
 
     },
 
@@ -181,7 +181,7 @@ CATEGORIES = {
 
         "description": "Alles, was sonst geteilt werden kann",
 
-        "image": https://images.unsplash.com/photo-1581147036324-c17ac41feb19?auto=format&fit=crop&w=900&q=80
+        "image": "https://images.unsplash.com/photo-1581147036324-c17ac41feb19?auto=format&fit=crop&w=900&q=80"
 
     }
 
